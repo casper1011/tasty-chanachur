@@ -1,0 +1,1 @@
+__WCHAR_TYPE__
